@@ -267,7 +267,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 
 
-## Author - Zero Analyst
+## Author - Naveenkumar
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst/ Data Engineer roles.
 
